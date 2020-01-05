@@ -17,3 +17,12 @@ A dashboard for viewing the exported metrics can be found here: [Grafana.com Das
 ## Kubernetes Usage
 
 The [`kubernetes/`](/kubernetes/) directory contains an example DaemonSet.
+
+New features:
+## Run smartctrl in json mode to get more information
+
+## Run fdisk -l to get partition names as well
+
+## Run X to get data on the connection (3gb vs 6gb for example)
+
+## Create a docker-compose file
